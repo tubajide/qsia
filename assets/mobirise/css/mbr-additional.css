@@ -681,6 +681,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -9001,6 +9002,7 @@ body {
 .cid-rbsRXUGXzc .section-text {
   padding: 2rem 0;
   text-align: left;
+  color: #232323;
 }
 .cid-rbsRXUGXzc .inner-container {
   margin: 0 auto;
